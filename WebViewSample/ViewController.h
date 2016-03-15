@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+@property (retain) IBOutlet UIWebView* webView;
 
 @end
 
